@@ -1,0 +1,17 @@
+[project]
+name = "reva"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "chrono>=1.0.2",
+    "colorama>=0.4.6",
+    "cython>=3.0.12",
+    "glfw>=2.9.0",
+    "imgui[glfw]>=2.0.0",
+    "kivy[full]>=2.3.1",
+    "pyopengl>=3.1.9",
+    "setuptools>=80.0.0",
+    "vulkan>=1.3.275.1",
+]
